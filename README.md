@@ -36,5 +36,5 @@
 
 ## Ref
 
-* [https://coding.imooc.com/class/316.html](https://coding.imooc.com/class/316.html)
-* [https://666java.com/1179.html](https://666java.com/1179.html)
+* <https://coding.imooc.com/class/316.html>
+* <https://github.com/guxiaobai/com.666root/tree/main/2425>
