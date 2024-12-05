@@ -2,9 +2,9 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Tue Mar 28 15:30:57 CST 2023` | -
+`Thu Dec  5 22:49:04 CST 2024` | `Tue Mar 28 15:30:57 CST 2023`
 
 
 ## Ref
 
-* [`output.publicPath`](output.publicPath)
+* <https://webpack.js.org/configuration/output/#outputpublicpath>
